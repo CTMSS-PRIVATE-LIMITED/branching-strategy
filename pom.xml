@@ -6,7 +6,7 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
   <parent>
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
-    <version>3.0-SNAPSHOT</version>
+    <version>5.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
