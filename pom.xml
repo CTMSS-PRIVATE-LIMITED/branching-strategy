@@ -11,7 +11,7 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
   </parent>
 
   <artifactId>taxi-booking-1.0.1</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>taxi-booking-1.0.1</name>
   <description>Webapp.</description>
 
