@@ -7,7 +7,7 @@ GITHUB BRANCHING STRATEGY WORK FLOW :
 
 
 *  Created a Dummy organization in Github and Name of the Organization is CTMSS-PRIVATE-LIMITED.
-* I Created a Repository and Repository Name is branching-strategy. Repository link 
+*  Created a Repository and Repository Name is branching-strategy. Repository link 
  https://github.com/CTMSS-PRIVATE-LIMITED/branching-strategy .
 * Created  below branches  in Repository.
 Main - This  main branch used for production releases. 
